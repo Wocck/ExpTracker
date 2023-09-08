@@ -1,0 +1,50 @@
+[
+    {
+        "amount": 25.5,
+        "category": "Food",
+        "date": "2023-09-01",
+        "description": "Dinner at a restaurant"
+    },
+    {
+        "amount": 12.99,
+        "category": "Transportation",
+        "date": "2023-09-02",
+        "description": "Bus fare"
+    },
+    {
+        "amount": 40.0,
+        "category": "Entertainment",
+        "date": "2023-09-03",
+        "description": "Movie night"
+    },
+    {
+        "amount": 300.0,
+        "category": "Rent",
+        "date": "2023-09-04",
+        "description": "Monthly rent payment"
+    },
+    {
+        "amount": 8.95,
+        "category": "Food",
+        "date": "2023-09-05",
+        "description": "Lunch at work"
+    },
+    {
+        "amount": 50.0,
+        "category": "Shopping",
+        "date": "2023-09-06",
+        "description": "New clothes"
+    },
+    {
+        "amount": 20.0,
+        "category": "Transportation",
+        "date": "2023-09-07",
+        "description": "Taxi ride"
+    },
+    {
+        "amount": 15.0,
+        "category": "Food",
+        "date": "2023-09-08",
+        "description": "Groceries"
+    }
+]

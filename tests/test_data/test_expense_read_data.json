@@ -1,0 +1,20 @@
+[
+        {
+            "amount": 25.5,
+            "category": "Food",
+            "date": "2023-09-01",
+            "description": "Dinner at a restaurant"
+        },
+        {
+            "amount": 12.99,
+            "category": "Transportation",
+            "date": "2023-09-02",
+            "description": "Bus fare"
+        },
+        {
+            "amount": 40.0,
+            "category": "Entertainment",
+            "date": "2023-09-03",
+            "description": "Movie night"
+        }
+]
